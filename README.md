@@ -1,1 +1,1 @@
-#This is an interactive game built in javascript.
+# This is an interactive game built in javascript.
